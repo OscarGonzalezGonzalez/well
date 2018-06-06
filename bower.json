@@ -1,0 +1,22 @@
+{
+  "name": "boostrap",
+  "homepage": "https://github.com/OscarGonzalezGonzalez/well",
+  "authors": [
+    "OscarGonzalezGonzalez <oscar.gonzalezg@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "project",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "fontawesome": "^5.0.13",
+    "jquery": "^3.3.1"
+  }
+}
